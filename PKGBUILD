@@ -5,7 +5,7 @@ pkgrel=3
 pkgdesc="Secure scuttlebutt server"
 arch=('x86_64')
 url=""
-license=('MITL')
+license=('MIT')
 groups=()
 depends=('nodejs=10.8.0-2')
 makedepends=('npm')
