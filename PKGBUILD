@@ -1,7 +1,7 @@
 # Maintainer: Jan Boelsche <jan@lagomorph.de>
 pkgname=scuttlebot
-pkgver=11.3.3
-pkgrel=3
+pkgver=12.0.1
+pkgrel=1
 pkgdesc="Secure scuttlebutt server"
 arch=('x86_64')
 url=""
